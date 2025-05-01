@@ -6,7 +6,7 @@ This is the full exported theme for **Fitday Nutrition**, a wellness brand focus
 
 ## 🚀 Highlights of My Work
 
-✅ Custom homepage (`fitday-hero-homepage`, `fitday-video-hero-homepage`)  
+✅ Custom homepage and sections (`fitday-hero-homepage`, `fitday-video-hero-homepage`)  
 ✅ Custom product recommendation logic with quiz integration  
 ✅ Custom snippets like `haz-el-quiz-button` and `faqs-fitday`  
 ✅ Clean UX improvements, mobile-first design and metafield-driven components  
@@ -29,4 +29,4 @@ This is a full Shopify theme export for review purposes. **Assets like private A
 
 ## 🙋‍♂️ About Me
 
-I'm a Shopify developer passionate about DTC growth, personalization, and fast, optimized eCommerce experiences. Fitday was built entirely by me to deliver a tailored buying experience for supplement customers.
+I'm a Shopify developer passionate about DTC growth, personalization, and fast, optimized eCommerce experiences. Fitday was built entirely by me (modifying Shopify's Sense theme completely) to deliver a tailored buying experience for supplement customers.
